@@ -1,1 +1,1 @@
-App link: quiz-9d1zspwfp-cevdetuslu25-gmailcom.vercel.app
+App link: https://quiz-app-swart-gamma.vercel.app/
